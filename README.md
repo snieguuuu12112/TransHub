@@ -1,7 +1,7 @@
-# FleetFlow
+# TransHub
 
 ## Opis projektu
-FleetFlow to aplikacja webowa do zarządzania trasami transportowymi w firmach.
+TransHub to aplikacja webowa do zarządzania trasami transportowymi w firmach.
 
 ## Problem
 System ma ułatwiać dodawanie tras, przydzielanie ich pracownikom oraz kontrolowanie postępu realizacji zleceń.
